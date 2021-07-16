@@ -1,8 +1,11 @@
 .aside{
-    width: 50%;
+    width: 60%;
+    border:5px black solid ;
+    border-left: 0;
 }
 .article{
-    width: 50%;
+    width: 40%;
+    border:5px black solid ;
     
 
 }
@@ -11,9 +14,12 @@ main{
 }
 .new{
     font-family: Otomanopee One;
+    width: 40%;
+    margin-left: 350px;
+    
 }
 .news{
-    font-family: Noto Sans KR;
+    font-family: Noto Sans KRd;
 }
 .nav-bar{
     display: flex;
@@ -21,4 +27,8 @@ main{
 }
 .nav-bar p{
     font-size: 18px;
+}
+.fat-bird{
+    width: 20%;
+    height: 100%;
 }
