@@ -11,7 +11,9 @@
 }
 body{
     background: url(Links/img/main-fone.png);
+    
 }
+
 main{
     display: flex;
 }
@@ -47,6 +49,9 @@ main{
     width: 20%;
     height: 100%;
 }
+.iframe{
+    width: 100%;
+}
 .text-to-video{
     font-size: 20px;
     font-family: Alfa Slab One;
@@ -57,8 +62,11 @@ button{
 }
 .attentions{
     color: white;
+    font-size: 50px;
+    line-height: 100px;
 }
 footer{
     border: 5px white solid;
     border-top: 0;
+    height: 100%;
 }
